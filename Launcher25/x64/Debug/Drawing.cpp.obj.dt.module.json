@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Launcher25\\x64\\Debug\\Drawing.obj",
+            "outputs": [
+                "Launcher25\\x64\\Debug\\Drawing.cpp.obj.dt.module.json",
+                "Launcher25\\x64\\Debug\\Drawing.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

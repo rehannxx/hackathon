@@ -1,0 +1,4 @@
+﻿cl : command line  warning D9047: option 'await' has been deprecated and will be removed in a future release.
+      Standard C++ coroutines are available by default in C++20 or later, or use '/await:strict' in earlier language modes.
+  Drawing.cpp
+  Launcher.vcxproj -> C:\Users\restr\OneDrive\Desktop\Imgui-Steam-Launcher-main\x64\Debug\Launcher25.exe
